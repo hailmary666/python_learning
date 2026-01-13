@@ -7,7 +7,7 @@
 ##  Как запустить код
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/[Ваш_логин]/python_learning.git
+    git clone https://github.com/hailmary666/python_learning.git
     ```
 2.  **Убедитесь, что установлены зависимости:** Основные библиотеки — pandas, matplotlib, numpy, jupyter.
     ```bash
